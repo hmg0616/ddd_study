@@ -13,6 +13,7 @@
 (발표 순서 : 매주 추첨)
 * 1주차(2023/9/20) : [1장. 도메인 모델 시작하기](https://github.com/hmg0616/ddd_study/issues/1), 발표자 : 권동희
 * 2주차(2023/9/27) : [2장. 아키텍처 개요](https://github.com/hmg0616/ddd_study/issues/2), 발표자 : 한문규
+* 3주차(2023/10/11) : [3장. 애그리거트](https://github.com/hmg0616/ddd_study/issues/3), 발표자 : 정서원
 
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
