@@ -16,7 +16,8 @@
 * 3주차(2023/10/11) : [3장. 애그리거트](https://github.com/hmg0616/ddd_study/issues/3), 발표자 : 정서원
 * 4주차(2023/10/11) : [4장. 리포지터리와 모델 구현](https://github.com/hmg0616/ddd_study/issues/4), 발표자 : 정서원
 * 5주차(2023/10/25) : [5장. 스프링 데이터 JPA를 이용한 조회 기능](https://github.com/hmg0616/ddd_study/issues/5), 발표자 : 김유진
-* 5주차(2023/11/2) : [6장. 응용 서비스와 표현 영역](https://github.com/hmg0616/ddd_study/issues/6), 발표자 : 한문규
+* 6주차(2023/11/2) : [6장. 응용 서비스와 표현 영역](https://github.com/hmg0616/ddd_study/issues/6), 발표자 : 한문규
+* 7주차(2023/11/7) : [7. 도메인 서비스 ~ 8. 애그리거트 트랜잭션 관리](https://github.com/hmg0616/ddd_study/issues/7), 발표자 : 한문규
 
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
